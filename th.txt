@@ -1,0 +1,45 @@
+PYTHON:
+scripting
+python 3.x
+
+.py
+
+
+operators:
+binary : 2 operand
+
+
+artihmatic : +,-,*,/,%, **,//
+realtional:<.>,=,>>.>
+logical : and or not
+bitwisw :
+membership:in not in
+identity operator : is is not
+
+
+tern : 3 operand
+
+implicit type casting
+expplicti type casting
+
+narrow type int ->float
+broad  -->flot --> int
+
+
+impl: 
+
+int : 100.20 --> 100 implicti broad
+
+float :90  --> 90.0 implicit broad
+
+
+expplict : int  -->float : error
+
+expplict :float  -->int : allow
+
+descision making statments
+if else
+match case 
+loops
+
+
