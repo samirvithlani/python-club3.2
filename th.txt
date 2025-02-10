@@ -43,3 +43,13 @@ match case
 loops
 
 
+
+DS:
+string: is collection of char
+list
+tuple
+disctonary
+set
+Array:
+
+
