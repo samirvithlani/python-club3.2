@@ -54,5 +54,15 @@ Array:
 
 
 
-find biggest word from string...
+#find biggest word from string...
+
+LIST:
+list allows duplicate elm
+list mutable 
+list stores data in insertation mannert
+list is hetrogrnious
+list is iterable , subsritable
+list []
+list data ttype list
+
 
