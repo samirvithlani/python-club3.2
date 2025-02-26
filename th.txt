@@ -65,4 +65,9 @@ list is iterable , subsritable
 list []
 list data ttype list
 
+tuple :
+typle is immutable:
+tuple is subscitpable:
+typle is iterable
+
 
