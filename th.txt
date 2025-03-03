@@ -71,3 +71,15 @@ tuple is subscitpable:
 typle is iterable
 
 
+--------------------------------
+index :
+key value:
+chart of disctonary:
+1) key should be unique
+2) key should be immutable
+3) key should be hashable : int, float, tuple, string
+4) key should be string, int, float, tuple
+5) value can be any type
+6) value can be duplicate
+7) value can be mutable
+
