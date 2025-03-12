@@ -83,3 +83,22 @@ chart of disctonary:
 6) value can be duplicate
 7) value can be mutable
 
+
+functions:
+to achive reusability code we can write functions
+to achive modularity code we can write functions
+readlibity
+maintainablity
+scalability
+
+type functions:
+1)builtin functions
+2)user defined functions
+
+4 type of functions are there:
+1) no arg no return
+2) no arg with return
+3) with arg no return
+4) with arg with return
+
+def keyword function create
