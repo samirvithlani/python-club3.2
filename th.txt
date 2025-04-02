@@ -102,3 +102,10 @@ type functions:
 4) with arg with return
 
 def keyword function create
+
+
+user 5 input
+
+3 int -- total
+2 string -- contcat sapcce
+
