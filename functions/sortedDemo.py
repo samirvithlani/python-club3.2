@@ -17,3 +17,18 @@ if nolist == listno:
     print("true")
 else:
     print("false")    
+
+
+#["1","2","3"] --> no
+#123 :map
+
+#[even no ] [sqlist]
+
+
+numbers = ["1","2","3"]
+
+x = list(map(int,numbers))
+print(x)
+
+x1 = int("".join(numbers))
+print(x1)
