@@ -112,3 +112,12 @@ user 5 input
 list:
 scores =[["virat",10,20,30,40,50],["ms",90,89,70,0,10],["hardik",100,20,30,40,60]]
 [["virat",100],["ms",90],["hardik",100]]
+
+
+inheitance
+enpcapsulation
+polymorphism
+abstraction
+
+class
+object
