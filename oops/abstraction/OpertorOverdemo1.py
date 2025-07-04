@@ -13,7 +13,7 @@ class Test:
     
     def __truediv__(self,other):
         print("true div called")
-        return self.x  / other.x
+        return self.x  + other.x
 
 
 t1 = Test(10)

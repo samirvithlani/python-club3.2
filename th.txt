@@ -121,3 +121,17 @@ abstraction
 
 class
 object
+
+
+class bank
+
+name balacne
+
+[1,b,c,d,e]
+[100.2-2,-02-,2]
+
+comprehntion -object:
+
+
+helper
+print
